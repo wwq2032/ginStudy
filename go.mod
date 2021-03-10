@@ -1,4 +1,4 @@
-module GIN
+module ginStudy
 
 go 1.14
 
